@@ -4,9 +4,9 @@ Deployed, functional FastAPI application built for the capstone individual MVP r
 
 ## 🔗 Live Deployment
 
-**[TODO: paste your Render URL here once deployed, e.g. https://civictreasury-api.onrender.com]**
+**https://civictreasury-api.onrender.com**
 
-Interactive API docs (Swagger UI) are available at `/docs` on the deployed URL.
+Interactive API docs (Swagger UI) are available at `/docs` on the deployed URL: https://civictreasury-api.onrender.com/docs
 
 ## Features
 
@@ -57,4 +57,3 @@ Visit `http://localhost:8000/docs` for the interactive API explorer.
 ## Product Specification
 
 **[TODO: paste the full contents of your Product Specification document here]**
-
